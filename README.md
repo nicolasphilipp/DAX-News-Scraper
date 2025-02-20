@@ -1,4 +1,4 @@
-## IMPORTANT: outdated and probably not working anymore
+## 🚨 IMPORTANT: outdated and probably not working anymore 🚨
 
 This repository contains 3 crawlers/scrapers to find relevant links to articles providing information about price movements of the DAX performance index.
 
